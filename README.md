@@ -22,11 +22,14 @@
 
 ## Other things about me...
 
+### What's new currently ?
+- ⌛ Development of my portfolio on going...
+- ⌛ New position on going...
+
+### Hobbies
 - 🧑‍🍳 I love restaurants and cooking
 - 👨‍💻 I love technology
 - 🌿 I love nature
-- 🌌 I love looking the sky
-
 <!--
 **rlembo06/rlembo06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
