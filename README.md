@@ -1,5 +1,14 @@
 # Hi, i'm Romain LEMBO 👋 Frontend Engineer 
 
+<div id="badges">
+  <a href="[[link to your LinkedIn profile]](https://www.linkedin.com/in/romainlembo/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=+33645262075&text=urlencodedtext">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="My WhatsApp" />
+  </a>
+</div>
+
 ## Main skills
 [![My Skills](https://skills.thijs.gg/icons?i=react&theme=light)](https://skills.thijs.gg "React 18")
 [![My Skills](https://skills.thijs.gg/icons?i=nodejs&theme=light)](https://skills.thijs.gg "Node 18")
