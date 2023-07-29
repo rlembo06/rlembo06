@@ -20,6 +20,15 @@
 [![My Skills](https://skills.thijs.gg/icons?i=tailwind&theme=light)](https://skills.thijs.gg "Tailwind 3")
 [![My Skills](https://skills.thijs.gg/icons?i=figma&theme=light)](https://skills.thijs.gg "Figma")
 
+## Main inspirations, sources
+- 📫 [TLDR newsletter](https://tldr.tech/)
+- 📫 [React Status](https://react.statuscode.com/)
+- 🕸️ [UI.dev](https://ui.dev/)
+- 📺 [Melvynx • Apprendre à coder](https://www.youtube.com/@melvynxdev)
+- 📺 [Underscore_](https://www.youtube.com/@Underscore_)
+- 📺 [Micode_](https://www.youtube.com/@Micode)
+- 📺 [ParfaitementWeb](https://www.youtube.com/@ParfaitementWeb)
+
 ## Other things about me...
 
 ### What's new currently ?
