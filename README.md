@@ -26,7 +26,7 @@
 - 🕸️ [UI.dev](https://ui.dev/)
 - 📺 [Melvynx • Apprendre à coder](https://www.youtube.com/@melvynxdev)
 - 📺 [Underscore_](https://www.youtube.com/@Underscore_)
-- 📺 [Micode_](https://www.youtube.com/@Micode)
+- 📺 [Micode](https://www.youtube.com/@Micode)
 - 📺 [ParfaitementWeb](https://www.youtube.com/@ParfaitementWeb)
 
 ## Other things about me...
