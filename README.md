@@ -20,6 +20,13 @@
 [![My Skills](https://skills.thijs.gg/icons?i=tailwind&theme=light)](https://skills.thijs.gg "Tailwind 3")
 [![My Skills](https://skills.thijs.gg/icons?i=figma&theme=light)](https://skills.thijs.gg "Figma")
 
+## Other things about me...
+
+- 🧑‍🍳 I love restaurants and cooking
+- 👨‍💻 I love technology
+- 🌿 I love nature
+- 🌌 I love looking the sky
+
 <!--
 **rlembo06/rlembo06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
