@@ -31,9 +31,9 @@
 
 ## Contributions
 
-|  Zenchef |                                                          Personnal                                                |
-| :-------: | :-------------------------------------------------------------------------------------------------------------------: |
-| [![GitHub Streak](https://streak-stats.demolab.com/?user=romainlembo-zenchef)](https://github.com/romainlembo-zenchef)   | [![GitHub Streak](https://streak-stats.demolab.com/?user=rlembo06)](https://github.com/rlembo06)|
+|  Zenchef  |                                                          Personal                                               |
+| :-------: | :-------------------------------------------------------------------------------------------------------------: |
+| [![Zenchef](https://streak-stats.demolab.com/?user=romainlembo-zenchef)](https://github.com/romainlembo-zenchef)            | [![Personal](https://streak-stats.demolab.com/?user=rlembo06)](https://github.com/rlembo06)                                                                                  |
 
 ## Other things about me...
 
