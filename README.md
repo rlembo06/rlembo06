@@ -44,7 +44,7 @@
 - 🌿 I love nature
 
 ## Professional contributions (Zenchef)
-[![Zenchef contributions](https://streak-stats.demolab.com/?user=romainlembo-zenchef&theme=dark)](https://git.io/streak-stats)
+[![Zenchef contributions](https://streak-stats.demolab.com/?user=romainlembo-zenchef&theme=dark)](https://github.com/romainlembo-zenchef)
 <!--
 **rlembo06/rlembo06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
