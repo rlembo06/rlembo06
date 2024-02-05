@@ -7,9 +7,6 @@
   <a href="https://api.whatsapp.com/send?phone=+33645262075&text=urlencodedtext">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="My WhatsApp" />
   </a>
-   <a href="https://github.com/romainlembo-zenchef">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="My professional Github account"/>
-  </a>
 </div>
 
 ## Main skills
@@ -32,6 +29,12 @@
 - 📺 [Micode](https://www.youtube.com/@Micode)
 - 📺 [ParfaitementWeb](https://www.youtube.com/@ParfaitementWeb)
 
+## Contributions
+
+|  Zenchef |                                                          Personnal                                                |
+| :-------: | :-------------------------------------------------------------------------------------------------------------------: |
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=romainlembo-zenchef)](https://github.com/romainlembo-zenchef)   | [![GitHub Streak](https://streak-stats.demolab.com/?user=rlembo06)](https://github.com/rlembo06)|
+
 ## Other things about me...
 
 ### What's new currently ?
@@ -42,21 +45,3 @@
 - 🧑‍🍳 I love restaurants and cooking
 - 👨‍💻 I love technology
 - 🌿 I love nature
-
-## Professional contributions (Zenchef)
-[![Zenchef professional contributions](https://streak-stats.demolab.com/?user=romainlembo-zenchef&theme=dark)](https://git.io/streak-stats)
-
-<!--
-**rlembo06/rlembo06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
