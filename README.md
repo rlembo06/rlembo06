@@ -42,6 +42,9 @@
 - 🧑‍🍳 I love restaurants and cooking
 - 👨‍💻 I love technology
 - 🌿 I love nature
+
+## Professional contributions (Zenchef)
+[![Zenchef contributions](https://streak-stats.demolab.com/?user=romainlembo-zenchef&theme=dark)](https://git.io/streak-stats)
 <!--
 **rlembo06/rlembo06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
