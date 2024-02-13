@@ -14,10 +14,10 @@
 [![My Skills](https://skills.thijs.gg/icons?i=nodejs&theme=light)](https://nodejs.org/ "Node 18")
 [![My Skills](https://skills.thijs.gg/icons?i=ts&theme=light)](https://www.typescriptlang.org/ "TypeScript 5") 
 [![My Skills](https://skills.thijs.gg/icons?i=aws&theme=light)](https://aws.amazon.com/ "AWS")
-
-## Skills development in progress
 [![My Skills](https://skills.thijs.gg/icons?i=nextjs&theme=light)](https://nextjs.org/ "Next 13")
 [![My Skills](https://skills.thijs.gg/icons?i=tailwind&theme=light)](https://tailwindcss.com/ "Tailwind CSS 3")
+
+## Skills development in progress
 [![My Skills](https://skills.thijs.gg/icons?i=figma&theme=light)](https://www.figma.com/ "Figma")
 
 ## Main inspirations, sources
@@ -39,7 +39,7 @@
 
 ### What's new currently ?
 - ⌛ Development of my portfolio on going...
-- ⌛ New position on going...
+- ⌛ AI chat based on multiple LLMs...
 
 ### Hobbies
 - 🧑‍🍳 I love restaurants and cooking
