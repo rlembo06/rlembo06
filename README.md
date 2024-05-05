@@ -18,7 +18,7 @@
 [![My Skills](https://skillicons.dev/icons?i=tailwind&theme=light)](https://tailwindcss.com/ "Tailwind CSS 3")
 
 ## Skills development in progress
-[![My Skills](https://skills.thijs.gg/icons?i=figma&theme=light)](https://www.figma.com/ "Figma")
+[![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://www.figma.com/ "Figma")
 
 ## Main inspirations, sources
 - 📫 [TLDR newsletter](https://tldr.tech/)
