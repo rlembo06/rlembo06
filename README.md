@@ -18,7 +18,8 @@
 [![My Skills](https://skillicons.dev/icons?i=tailwind&theme=light)](https://tailwindcss.com/ "Tailwind CSS 3")
 
 ## Skills development in progress
-[![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://www.figma.com/ "Figma")
+- 🤖 [LLM](https://codeline.app/cdly/courses/cle90py5m0000mg080t8p1mty/lessons/clpq8da5q0001tl5xgszbza59) (Mistral, Llama, Gemini, etc)
+- 🎨 [Panda CSS](https://panda-css.com/)
 
 ## Main inspirations, sources
 - 📫 [TLDR newsletter](https://tldr.tech/)
