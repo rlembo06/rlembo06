@@ -21,7 +21,9 @@
 </a>
 
 ## Skills development in progress
-- 🤖 [LLM](https://codeline.app/cdly/courses/cle90py5m0000mg080t8p1mty/lessons/clpq8da5q0001tl5xgszbza59) (Mistral, Llama, Gemini, etc)
+- 🤖 [Agentic Coding](https://agentic-coding.github.io/) (Claude Code, etc)
+- 🤖 [LangChain](https://www.langchain.com) (LangChain)
+- 🤖 [AI SDK Vercel](https://vercel.com/docs/ai-sdk) (AI SDK Vercel)
 - 🎨 [Panda CSS](https://panda-css.com/)
 
 ## Main inspirations, sources
