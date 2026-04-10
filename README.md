@@ -16,6 +16,9 @@
 [![My Skills](https://skillicons.dev/icons?i=aws&theme=light)](https://aws.amazon.com/ "AWS")
 [![My Skills](https://skillicons.dev/icons?i=nextjs&theme=light)](https://nextjs.org/ "Next 13")
 [![My Skills](https://skillicons.dev/icons?i=tailwind&theme=light)](https://tailwindcss.com/ "Tailwind CSS 3")
+<a href="https://claude.ai" title="Claude Code">
+  <img height="48" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/claude-color.png" alt="Claude Code" />
+</a>
 
 ## Skills development in progress
 - 🤖 [LLM](https://codeline.app/cdly/courses/cle90py5m0000mg080t8p1mty/lessons/clpq8da5q0001tl5xgszbza59) (Mistral, Llama, Gemini, etc)
