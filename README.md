@@ -24,7 +24,7 @@
 - 🤖 [Agentic Coding](https://agentic-coding.github.io/) (Claude Code, etc)
 - 🤖 [RAG Framework, orchestrator](https://www.langchain.com) (LangChain)
 - 🤖 [AI integration for UI / Chat](https://vercel.com/docs/ai-sdk) (AI SDK Vercel)
-- 🎨 [Panda CSS](https://panda-css.com/)
+- 🎨 [Panda CSS](https://panda-css.com/) (CSS / Styling framework)
 
 ## Main inspirations, sources
 - 📫 [TLDR newsletter](https://tldr.tech/)
