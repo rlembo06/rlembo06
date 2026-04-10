@@ -22,8 +22,8 @@
 
 ## Skills development in progress
 - 🤖 [Agentic Coding](https://agentic-coding.github.io/) (Claude Code, etc)
-- 🤖 [LangChain](https://www.langchain.com) (LangChain)
-- 🤖 [AI SDK Vercel](https://vercel.com/docs/ai-sdk) (AI SDK Vercel)
+- 🤖 [RAG Framework, orchestrator](https://www.langchain.com) (LangChain)
+- 🤖 [AI integration for UI / Chat](https://vercel.com/docs/ai-sdk) (AI SDK Vercel)
 - 🎨 [Panda CSS](https://panda-css.com/)
 
 ## Main inspirations, sources
