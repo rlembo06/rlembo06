@@ -1,4 +1,4 @@
-# Hi, i'm Romain LEMBO-HERMETZ 👋 Frontend Engineer 
+# Hi, i'm Romain LEMBO-HERMETZ 👋 Fullstack Engineer
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/romainlembo">
